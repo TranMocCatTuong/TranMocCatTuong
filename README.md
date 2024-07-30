@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm TranMocCatTuong</h2>
+<p align="center">
+  <h3 align="center">A passionate about computer networks and system administration from Vietnam.</h3>
+</p>
 
-<!--
-**TranMocCatTuong/TranMocCatTuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ✍ I'm a final-year student at Ton Duc Thang University.
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/TienNHM" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
+
