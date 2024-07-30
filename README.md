@@ -17,5 +17,11 @@
   <a href="mailto:khoahoc4321@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+</p
+
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=mkkp6yt38FVq&format=png&color=000000"/>
 </p>
+
 
