@@ -6,7 +6,7 @@
 </p>
 
 - ✍ I'm a final-year student at Ton Duc Thang University.
-- 💼 Currently, I'm learning AWS Cloud Computing Services and System Administration.
+- 💼 Currently, I'm learning AWS Cloud Computing Services and Automated System Administration.
 - 👯  If you are looking for collaboration on computer networking project please contact me.
 
 ## How to reach me:
